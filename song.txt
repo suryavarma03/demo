@@ -4,15 +4,3 @@ nianicdni
 Hello
 hi how are you
 HI HIHIHIIHIIHI
-
-New Change 
-new change 2
-
-Finalllllllllll
-for undo change
-
-revert change 
-commit changes
-
-final revert
---------------
